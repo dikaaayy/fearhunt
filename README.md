@@ -5,7 +5,7 @@ ___
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://firhan.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/firhanrm)
 ![Profile views](https://gpvc.arturio.dev/firhanrm)
-- 👨🏻‍💻 I’m currently studying website and Android apps development (more cool things to learn as well!).
+- 👨🏻‍💻 I’m currently studying website and Android apps development (more cool things to learn as well!)
 - 🚀 Doing some freelancing work, research, and projects
 ___
 ### 📈 Github Profile Stats
