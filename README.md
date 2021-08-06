@@ -11,7 +11,7 @@ ___
 ### 📈 Github Profile Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=fearhunt&show_icons=true&theme=tokyonight" alt="fearhunt" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearhunt&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="fearhunt" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fearhunt&theme=tokyonight&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8" alt="fearhunt" />
 </p>
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fearhunt&show_icons=true&theme=tokyonight) -->
 <!--
